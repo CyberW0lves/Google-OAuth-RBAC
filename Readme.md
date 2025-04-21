@@ -20,5 +20,5 @@ npm run dev
 
 ### Support Me
 
-Buy Me A Coffee : [Link](https://buymeacoffee.com/mrcyberwolf)
-Subscribe to My Channel : [Link](https://www.youtube.com/@MrCyberWolf)
+[Buy Me A Coffee](https://buymeacoffee.com/mrcyberwolf).
+[Subscribe to My Channel](https://www.youtube.com/@MrCyberWolf).
