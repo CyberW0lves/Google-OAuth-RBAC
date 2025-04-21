@@ -1,0 +1,36 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "express",
+    "google",
+    "oauth2",
+    "oidc"
+  ],
+  "author": "Jahangeer",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "Integrating Google authentication using the OpenID Connect (OIDC) flow in an Express.js application",
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.8",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "google-auth-library": "^9.15.1",
+    "mongoose": "^8.12.1",
+    "permitio": "^2.7.2-rc"
+  }
+}
